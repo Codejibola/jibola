@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../../../second-app"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
